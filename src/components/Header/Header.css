@@ -1,0 +1,10 @@
+a {
+  text-decoration: none;
+  margin-left: 10px;
+  font-size: larger;
+  color: black;
+}
+
+a:hover {
+  color: goldenrod;
+}
